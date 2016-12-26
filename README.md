@@ -1,2 +1,2 @@
 # learingGit
-Mlodova Ruller
+Moldova Ruller. aka #nuPlaha
